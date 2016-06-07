@@ -29,7 +29,15 @@ var setB = [
     "happy",
     "sad",
     "undecided",
-    "confused"
+    "confused",
+    "laughing",
+    "hysterical",
+    "angry",
+    "maniacal",
+    "creepy",
+    "spooked",
+    "jumping",
+    "hyperactive"
 ];
 var setC = [
     "sliced",
