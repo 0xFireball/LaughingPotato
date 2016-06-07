@@ -40,8 +40,31 @@ var setC = [
     "charred",
     "chopped",
     "diced",
-    "peeled"
+    "peeled",
+    "aromatic",
+    "spicy",
+    "tasty",
+    "smelly",
+    "toxic",
+    "radioactive"
 ];
 var setD = [
-    "avocado"
+    "avocado",
+    "onion",
+    "cupcake",
+    "banana",
+    "pear",
+    "blueberry",
+    "grape",
+    "strawberry",
+    "mango",
+    "beetroot",
+    "turnip",
+    "eggplant",
+    "carrot",
+    "spinach leaf",
+    "bread loaf",
+    "chili",
+    "brussels sprout",
+    "orange"
 ];
