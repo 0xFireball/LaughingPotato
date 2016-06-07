@@ -9,8 +9,12 @@ $(document).ready(function () {
     }, 500);
 });
 
+Array.prototype.randomElement = function () {
+    return this[Math.floor(Math.random() * this.length)]
+};
+
 function generateARandomThing() {
-    return "You are an apple.";
+    return [setA.randomElement(), setB.randomElement(), setC.randomElement(), setD.randomElement()].join(" ");
 }
 
 $("#btnGo").click(function () {
